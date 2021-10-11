@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiWebAuthenticator", "MauiWebAuthenticator\MauiWebAuthenticator.csproj", "{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE586F9-0C5B-4C2E-8C48-9B86178D76C7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661E2254-48A4-4AED-AC57-890B5FFBFB30}
+	EndGlobalSection
+EndGlobal
