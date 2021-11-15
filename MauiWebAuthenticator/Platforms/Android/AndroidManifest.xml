@@ -46,5 +46,8 @@
 	<uses-feature android:name="android.hardware.location" android:required="false" />
 	<uses-feature android:name="android.hardware.location.gps" android:required="false" />
 	<uses-feature android:name="android.hardware.location.network" android:required="false" />
-	<application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true"></application>
+
+	<!--Android.Content.Res.Resources+NotFoundException: Message=Drawable com.companyname.Vaultage:mipmap/appicon_round with resource ID #0x7f0c0001-->
+	<!--<application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true"></application>-->
+	<application android:allowBackup="true" android:supportsRtl="true"></application>
 </manifest>
